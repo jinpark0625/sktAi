@@ -21,7 +21,7 @@
 
 #### 4. 정보 구조 (IA) 
 
-   1) Home
+    1) Home
         - Search
         - Project
         - Research & Press/Blog
@@ -33,7 +33,7 @@
         - Legal Notice
         - Language
 
-   2) Philosophy
+    2) Philosophy
         - Search
         - Innovation through disruptive and scalable AI technology
         - AIC strives for global excellence
